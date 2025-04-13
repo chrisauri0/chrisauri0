@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Chrisauri0</h1>
 
-<!--
-**chrisauri0/chrisauri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Developer • 🧠 Lifelong Learner • 🎯 Problem Solver
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/chrisauri0">LinkedIn</a> •
+  <a href="https://twitter.com/chrisauri0">Twitter</a> •
+  <a href="https://yourwebsite.com">Website</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **full-stack web & mobile projects**
+- 🌱 I’m learning **TypeScript**, **Docker**, and sharpening my **backend** skills
+- 💬 Ask me about **Laravel**, **React Native**, **MySQL**, and **API development**
+- ⚡ Fun fact: I love clean UI, smart code, and a good cup of coffee ☕️
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages:    JavaScript | PHP | SQL | Java | Kotlin
+🧰 Tools:        Laravel | React Native | Node.js | MySQL | Git | Android Studio
+🌐 Others:       REST APIs | Firebase | TailwindCSS | Docker | Expo
+
